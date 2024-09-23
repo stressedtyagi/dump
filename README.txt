@@ -1,3 +1,36 @@
+Professional Achievements Summary
+Over the past year, I have consistently demonstrated a commitment to excellence and innovation in my role, contributing significantly to our team's success and the company's strategic objectives. Here's an overview of my key accomplishments:
+Technical Expertise and Development
+
+Leveraged my expertise in ReactJS to enhance our application's frontend using Angular, focusing on developing core UI features and improving overall user experience.
+Significantly contributed to backend API development, implementing critical features and strengthening our codebase with comprehensive test coverage.
+Initiated and led discussions on re-architecting our API design, aiming for increased flexibility, modularity, and abstraction to support future scalability.
+
+Architecture and Infrastructure
+
+Played a pivotal role in designing architecture for both AWS and On-Premise stacks, ensuring optimal performance and security.
+Spearheaded the migration to a containerized architecture, markedly improving deployment efficiency and resource utilization.
+Implemented end-to-end CI/CD pipelines for all project modules, streamlining our development process and enhancing productivity.
+
+Cloud and Database Technologies
+
+Demonstrated proficiency in a wide array of technologies including Kubernetes, AWS EKS, DynamoDB, Cassandra, MongoDB, Spinnaker, JavaScript, Python, Jenkins, Jules, Sophia, and GKP.
+Successfully implemented infrastructure deployments for AWS and GKP environments across all application modules, from development to production.
+Orchestrated the integration of Cassandra, MongoDB, and Mercury S3 across various environments, ensuring data integrity and performance.
+
+Security and Authentication
+
+Led the initiative to implement Kerberos authentication from the ground up, adapting our applications to leverage this secure authentication method in the GKP environment.
+Developed a custom authentication manager for passwordless authentication between different resources using Kerberos/Sophia, enhancing security protocols within our GKP infrastructure.
+
+Team Leadership and Innovation
+
+Facilitated the team's onboarding to GKP, establishing development and UAT environments to support seamless transitions.
+Actively engaged in client-facing roles to drive adoption of our solutions, showcasing strong communication and stakeholder management skills.
+Contributed significantly to our team's achievement of the Impact Award in the innovation category, underscoring our collective commitment to pushing boundaries and delivering exceptional results.
+
+--------------------
+
 Name: Divyanshu Tyagi
 Years of Experience: 1 Year 8 Months
 
