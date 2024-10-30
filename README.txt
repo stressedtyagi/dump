@@ -1,69 +1,83 @@
-Professional Achievements Summary
-Over the past year, I have consistently demonstrated a commitment to excellence and innovation in my role, contributing significantly to our team's success and the company's strategic objectives. Here's an overview of my key accomplishments:
-Technical Expertise and Development
+I am writing my yearly performance review report. For which i have to write properly about each goal under each performance dimension. There are in total 3 performance dimension Business Results, Client/Customer/Stakeholder and Teamwork and Leadership. I will attach a file that contains:
 
-Leveraged my expertise in ReactJS to enhance our application's frontend using Angular, focusing on developing core UI features and improving overall user experience.
-Significantly contributed to backend API development, implementing critical features and strengthening our codebase with comprehensive test coverage.
-Initiated and led discussions on re-architecting our API design, aiming for increased flexibility, modularity, and abstraction to support future scalability.
+1. Goals for each type of performance dimension
+2. Comments on Goals that indicate what all i did for that goal
 
-Architecture and Infrastructure
+Keep in mind the file while writing the answer.
 
-Played a pivotal role in designing architecture for both AWS and On-Premise stacks, ensuring optimal performance and security.
-Spearheaded the migration to a containerized architecture, markedly improving deployment efficiency and resource utilization.
-Implemented end-to-end CI/CD pipelines for all project modules, streamlining our development process and enhancing productivity.
+Write me a detailed performance review keeping in mind following points while writing your answer for each performance dimension.
 
-Cloud and Database Technologies
+- Business Results: Deliver the goals of your team, business/ function and the company. Describe accomplishments and delivery for the full year. Be specific with facts and examples on both results (“what”) and behaviors (“how”) on how it was achieved against expectations for your level. Include any additional considerations or factors in the context of the environment this year.
 
-Demonstrated proficiency in a wide array of technologies including Kubernetes, AWS EKS, DynamoDB, Cassandra, MongoDB, Spinnaker, JavaScript, Python, Jenkins, Jules, Sophia, and GKP.
-Successfully implemented infrastructure deployments for AWS and GKP environments across all application modules, from development to production.
-Orchestrated the integration of Cassandra, MongoDB, and Mercury S3 across various environments, ensuring data integrity and performance.
+- Client / Customer / Stakeholder: Identify and deliver appropriate solutions that address the needs of clients / customers/ stakeholders. Describe the solutions identified and delivered that addressed the needs of your clients/customers/stakeholders while balancing the needs of the firm. Do not include confidential information on clients/customers/deals.
 
-Security and Authentication
+- Teamwork and Leadership: Foster a collaborative and inclusive environment that supports growth and development. Describe actions taken to foster a collaborative and inclusive environment, including supporting the firm’s Diversity, Equity and Inclusion initiatives, BRG participation, and mentoring. If you are a manager, reflect how you demonstrated the Manager Capabilities. If you are a manager of managers, include how the manager(s) on your team demonstrated the Manager Capabilities.
 
-Led the initiative to implement Kerberos authentication from the ground up, adapting our applications to leverage this secure authentication method in the GKP environment.
-Developed a custom authentication manager for passwordless authentication between different resources using Kerberos/Sophia, enhancing security protocols within our GKP infrastructure.
+Drona: Our product name that is model monitoring solution
+GKP: Gaia Kubernetes Platform (On Premises Kubernetes Platform)
+Mconsole: One of the module within our project
+MMonitor: One of the module within our project
+Alerts: One of the module within our project
 
-Team Leadership and Innovation
+------
 
-Facilitated the team's onboarding to GKP, establishing development and UAT environments to support seamless transitions.
-Actively engaged in client-facing roles to drive adoption of our solutions, showcasing strong communication and stakeholder management skills.
-Contributed significantly to our team's achievement of the Impact Award in the innovation category, underscoring our collective commitment to pushing boundaries and delivering exceptional results.
-
---------------------
-
-Name: Divyanshu Tyagi
-Years of Experience: 1 Year 8 Months
-
-Skills:
-
-Languages: JavaScript, Python, Java, Shell, C++
-Frameworks/Libraries/Technologies: React, Angular, Node.js, FastAPI, CI/CD, Jenkins, Kubernetes, Kustomize, AWS (EKS), GKP (Gaia Kubernetes Platform), Docker
-Databases: MongoDB, SQL, PostgreSQL, DynamoDB, Cassandra DB
-Hackathons:
-
-Winner: Largest inter-college Hackathon at NIT Warangal
-Participant: JPMC Innovation Week Hackathon – Developed 'create-salt-app', a CLI tool for generating Salt app templates, including CI/CD integration
-Awards:
-
-Innovation Award: Recognized for the development of the innovative product 'Drona'
-Previous Roles and Responsibilities:
-
-Lead, Google Developer Student Club: Successfully established and led the first-ever Google Developer Student Club on campus, building a community of over 500 members
-Backend Developer, Crypto Startup:
-Developed high-quality RESTful APIs
-Implemented a comprehensive tax calculator service for cryptocurrency taxes
-Designed and managed AWS S3 workflows for generating PDF and XLSX tax reports
-Contributor, CT Hackathon at JPMC: Volunteered and contributed to the success of the event
-Current Responsibilities:
-
-Backend API Development:
-
-Spearheading the introduction of new features and maintaining the MConsole API
-Led the complete architectural revamp of the MConsole API, aligning it with modern development standards and design best practices
-Infrastructure/DevOps:
-
-Setting up and maintaining project deployment, builds, and databases on AWS and GKP
-Architected the CI/CD pipeline from the ground up for EKS and GKP
-Developed scripts for various project modules, starting from scratch
-Conducted multiple POCs for project migration from AWS to GKP
-Managing infrastructure and architecture for 'Drona'
+Performance Dimensions: Business Results
+	- GOAL: Problem solving and innovation
+		- Identify and solve complex technical problems within team 
+		- Propose innovative solutions to enhance existing system and processes 
+		- Contribute to development of new features or product that add significant value to the project
+		- COMMENTS
+			- Helped in Development and providing innoviative solutions for MMonitor, Mconsole and Alerts
+			- Contributed to development of AWS Containeratization and GKP Onboarding for drona which helped in lot of adoptions for the product
+	- GOAL: Backend
+		- Understanding of modules of mmonitor 
+		- Contribute in development of features
+		- COMMENTS
+			- Did self understanding and took KT for MMonitor from module owner
+			- Contributed for Reference Stat generation and Feature Distribution in MMonitor
+			- Contributed to architecture restructuring for Mconsole Backend
+			- Created GKP auth manager service from scratch
+	- GOAL: CI/CD
+		- Own product platform infrastructure code 
+		- Contribute to any AWS enhancement in infrastructure code 
+		- Implement infrastructure as code for GKP 
+		- Update to build and deployment
+		- COMMENTS
+			- Own Drona GKP Infra
+			- Wrote whole platform infra code for drona on GKP
+			- Contributed to AWS Upgrade and Drona Deployment on AWS using Spinnaker
+			- Coded CI/CD piples for both GKP and AWS for different Drona Modules
+		
+Performance Dimensions: Client/Customer/Stakeholder
+	- GOAL: Client/Customer/Stakeholder satisfaction
+		- Shadow main point contact for adoption engagement 
+		- COMMENTS
+			- Being a shadow to main point of contact for ELA adoption
+	- GOAL: Communication and Collaboration
+		- Collaborate effectively with cross-fuctional teams, including project managers, designers, and quality assurance engineers 
+		- Actively participate in code reviews, providing constructive feedback and fostering a culture of excellence
+		- COMMENTS
+			- Collaborated with adoptions team including project managers, designers and QA engineers
+			- Collaborated with Designers for Mconsole UI, provided constructive feedback
+			- Been a Reviewer for Code and Pull Requests in Release 2.0
+	
+Performance Dimensions: Teamwork and Leadership
+	- GOAL: Teamwork and Leadership
+		- Lead a feature within a project from inception to completion
+		- Actively participate in project planning and execution meetings 
+		- Mentor fellow developers, providing guidance and support on technical and professional matters
+		- COMMENTS
+			- Lead GKP auth manager service. Build it from scratch to finished production code
+			- Helped new developer in team to transition through properly and understand the product properly
+			- Actively participated in Release 2.0 and Release 3.0 planning, also provided feedback that could help team and product to progress properly in future
+			- Mentored newly joined team member to get comfortable with product code base and helped him on different tasks he is assigned apart for my own BAU
+	- GOAL: Technical Skill Development
+		- Learn new language, framework or technology relevant to our field 
+		- Improve proficiency in existing technologies
+		- COMMENTS
+			- Demonstrated exception initiative by acquiring proficiency in Kubernetes, a critical technology for modern cloud-native applications, enhancing our team's containerization capabilities
+			- Expanded technical repertoire by learning CassandraDB, MongoDB, strengthening our ability to handle large-scale, distributed data management tasks efficiently
+			- Deepened expertise in CI/CD practices, contributing to improve development workflows and faster, more reliable software delivery processes.
+			- Significantly enhanced python programming skills, boosting productivity and code quality across projects.
+			- Proactively sought out and mastered new technologies relevant to our field, showcasing adaptability and a commitment to staying at the forefront of industry trends.
+			- Leveraged newly acquired knowledge to propose and implement innovative solutions, driving technological advancement within the team.
