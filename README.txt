@@ -1,3 +1,28 @@
+Business Results: Problem solving and innovation
+I have demonstrated exceptional problem-solving abilities and a strong innovative mindset. My contributions to developing innovative solutions for key product modules like MMonitor, Mconsole, and Alerts have been highly impactful. Additionally, my work on AWS containerization and GKP onboarding for the Drona product has enabled significant platform adoption, showcasing my ability to drive meaningful business impact.
+
+Business Results: Backend
+I have exhibited a deep understanding of the MMonitor module, contributing valuable features such as Reference Stat generation and Feature Distribution. My architectural restructuring of the Mconsole backend and my creation of the GKP auth manager service from scratch highlight my technical expertise and my capability to lead complex backend initiatives.
+
+Business Results: CI/CD
+My leadership in the CI/CD domain is commendable. I have owned the Drona GKP infrastructure, writing the entire platform code, and made significant contributions to AWS upgrades and Drona deployments using Spinnaker. Additionally, I have coded CI/CD pipelines for both GKP and AWS across various Drona modules, greatly improving the reliability and efficiency of the company's software delivery processes.
+
+Client/Customer/Stakeholder: Client/Customer/Stakeholder satisfaction
+My support for the adoption and engagement efforts of the Drona product, through shadowing the main point of contact for ELA adoption, has been invaluable in addressing customer needs.
+
+Client/Customer/Stakeholder: Communication and Collaboration
+My strong communication and collaboration skills have been instrumental in working effectively with cross-functional teams, including project managers, designers, and quality assurance engineers. My constructive feedback during code reviews and my contributions to the Mconsole UI design have helped foster a culture of excellence and enhanced the overall user experience.
+
+Teamwork and Leadership: Teamwork and Leadership
+My ability to lead complex technical initiatives is commendable. I successfully led the development of the GKP auth manager service, building it from inception to production-ready code. My mentorship of a newly joined team member, helping them transition and understand the product codebase, has been invaluable in supporting the team's growth and development. My active participation in project planning and execution meetings, coupled with the insightful feedback I provided, have helped steer the team and product towards better progress.
+
+Teamwork and Leadership: Technical Skill Development
+My commitment to technical skill development is highly impressive. I have proactively learned new technologies like Kubernetes, CassandraDB, and MongoDB, expanding my expertise in critical areas. Additionally, I have deepened my proficiency in CI/CD practices and Python programming, which have significantly enhanced my ability to contribute innovative solutions and drive technological advancement within the team.
+
+
+
+----
+
 I am writing my yearly performance review report. For which i have to write properly about each goal under each performance dimension. There are in total 3 performance dimension Business Results, Client/Customer/Stakeholder and Teamwork and Leadership. I will attach a file that contains:
 
 1. Goals for each type of performance dimension
