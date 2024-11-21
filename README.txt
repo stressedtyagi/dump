@@ -1,3 +1,19 @@
+Hi Mayank
+
+Nowadays, educational Qualifications matter only when you are getting your first job. After 1 or 2 year experience only your experience matter. In earlier days like 5-6 years ago it used to matter a lot but as per my observation in todays market it does not. That's why i took a decision to do masters at that time. As for good high paying MNC's only your experience and skills matter. 
+
+Going to a good college or university for masters will surely boost up your resume but with that you will have to trade of years of experience. One thing i can assure if you get into good college for masters, the community and friends that you build up there will surely help you in future. If you want to do MCA/MSc, i would recommend you to do it from somewhere where it is 2 years (DU or NIT Trichy). Since, 3 years is a long period and totally waste of time. At the end you will have to learn yourself, college won't help you much. 
+
+Also, idk if you know but most NIT's are discontinuing MCA so its your choice if you want to take your bets on that. 
+
+So, at the end its completely your decision if you just want to go for Masters to get educational criteria full fil i won't recommend that rather focus on increasing your skills and years of experience in industry. Join a startup build something that make you stand out there in market. 
+
+Also, if you want example i have two of my friends, one who did masters for DU MSC(CS) and got into top most MNC's out there where his masters didn't help him rather his skills and years of experience helped him. (https://www.linkedin.com/in/ankushkhanna1998/)
+
+Also one who didn't do masters and still got into really good company. You can talk to them if you still feel confused. (https://www.linkedin.com/in/mohitbhl/)
+
+-------
+
 Business Results: Problem solving and innovation
 I have demonstrated exceptional problem-solving abilities and a strong innovative mindset. My contributions to developing innovative solutions for key product modules like MMonitor, Mconsole, and Alerts have been highly impactful. Additionally, my work on AWS containerization and GKP onboarding for the Drona product has enabled significant platform adoption, showcasing my ability to drive meaningful business impact.
 
