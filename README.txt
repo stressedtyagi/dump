@@ -1,3 +1,21 @@
+Job Id's: 
+- 200567346
+- 200553134
+- 200567622
+- 200568150
+- 200570000
+- 200524442
+
+Job Links: 
+- https://jobs.apple.com/en-in/details/200567346/software-engineer-full-stack?team=OPMFG
+- https://jobs.apple.com/en-in/details/200553134/software-engineer-ml-ops?team=OPMFG
+- https://jobs.apple.com/en-in/details/200567622/software-engineer-manufacturing-systems-infrastructure?team=OPMFG
+- https://jobs.apple.com/en-in/details/200568150/software-engineer-cloud-networking?team=SFTWR
+- https://jobs.apple.com/en-in/details/200570000/full-stack-software-engineer-manufacturing-systems-infrastructure?team=OPMFG
+- https://jobs.apple.com/en-in/details/200524442/full-stack-developer?team=OPMFG
+
+--------
+
 Hi Mayank
 
 Nowadays, educational Qualifications matter only when you are getting your first job. After 1 or 2 year experience only your experience matter. In earlier days like 5-6 years ago it used to matter a lot but as per my observation in todays market it does not. That's why i took a decision to do masters at that time. As for good high paying MNC's only your experience and skills matter. 
