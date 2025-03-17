@@ -1,34 +1,33 @@
-Job Id's: 
-- 200567346
-- 200553134
-- 200567622
-- 200568150
-- 200570000
-- 200524442
 
-Job Links: 
-- https://jobs.apple.com/en-in/details/200567346/software-engineer-full-stack?team=OPMFG
-- https://jobs.apple.com/en-in/details/200553134/software-engineer-ml-ops?team=OPMFG
-- https://jobs.apple.com/en-in/details/200567622/software-engineer-manufacturing-systems-infrastructure?team=OPMFG
-- https://jobs.apple.com/en-in/details/200568150/software-engineer-cloud-networking?team=SFTWR
-- https://jobs.apple.com/en-in/details/200570000/full-stack-software-engineer-manufacturing-systems-infrastructure?team=OPMFG
-- https://jobs.apple.com/en-in/details/200524442/full-stack-developer?team=OPMFG
+CKAD Certificate Link: https://udemy-certificate.s3.amazonaws.com/image/UC-61c4f8ee-8795-432b-9f3e-d4d231e18000.jpg
+CKAD Certificate Link (PDF): https://udemy-certificate.s3.amazonaws.com/pdf/UC-61c4f8ee-8795-432b-9f3e-d4d231e18000.pdf
 
---------
+----------
 
-Hi Mayank
+Hi Divyanshu ,
 
-Nowadays, educational Qualifications matter only when you are getting your first job. After 1 or 2 year experience only your experience matter. In earlier days like 5-6 years ago it used to matter a lot but as per my observation in todays market it does not. That's why i took a decision to do masters at that time. As for good high paying MNC's only your experience and skills matter. 
+Please find my detailed  feedback for the year below :
 
-Going to a good college or university for masters will surely boost up your resume but with that you will have to trade of years of experience. One thing i can assure if you get into good college for masters, the community and friends that you build up there will surely help you in future. If you want to do MCA/MSc, i would recommend you to do it from somewhere where it is 2 years (DU or NIT Trichy). Since, 3 years is a long period and totally waste of time. At the end you will have to learn yourself, college won't help you much. 
+Engineering Excellence:
+Positive: He spends good amount of time in understanding the requirement and thinks about all possible scenarios that good be possible. That reflects on his code, and his work in most cases are complete when he comes for review. If he doesn’t have solution , he will ask and ensure that he covers the scenario before he announces his work done. He is always keen to experiment and learn new technology and tools. He has good coding style that is easier to maintain.
+Scope of improvements: Well he being lesser experience, there is lot to learn. If he continues in his current way, he will be a good engineer. More knowledge in the AIML space, will help him and the team
 
-Also, idk if you know but most NIT's are discontinuing MCA so its your choice if you want to take your bets on that. 
+Team payer:
+Positive: Always ready to help, and does not shy away from taking responsibility. 
+Scope of improvement: As he gains experience, we would like him to own a component or an area of work.
 
-So, at the end its completely your decision if you just want to go for Masters to get educational criteria full fil i won't recommend that rather focus on increasing your skills and years of experience in industry. Join a startup build something that make you stand out there in market. 
 
-Also, if you want example i have two of my friends, one who did masters for DU MSC(CS) and got into top most MNC's out there where his masters didn't help him rather his skills and years of experience helped him. (https://www.linkedin.com/in/ankushkhanna1998/)
+Managing stakeholder:
+Positive: He has shown good ownership and responsibility during the ELA deployment. He was proactive in getting the things done by coordinating with different stakeholder, like raising RSAMS, etc. One notable thing was the Cassandra evaluation, where he coordinated with different groups to get the required inputs, that helped us to take the right decision at the right time.
+Scope of improvement: Managing client deployment all alone, and participate in discussions with stakeholders.
 
-Also one who didn't do masters and still got into really good company. You can talk to them if you still feel confused. (https://www.linkedin.com/in/mohitbhl/)
+
+General:
+Positive: He is dedicated and always willing to learn. He does not shy away from challenges.
+Scope of improvements: He can now start experimenting more. I sometimes feel he is scared of making mistakes. We should convey that it is ok to make mistakes and he should confidently execute his tasks and look a requirement wholistically.
+
+Rgds
+Soma
 
 -------
 
