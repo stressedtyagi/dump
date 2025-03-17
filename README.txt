@@ -1,3 +1,8 @@
+JPMC Important Links:
+
+Employee Verification Portal: https://employee-verification.jpmorganchase.com/
+
+----------
 
 CKAD Certificate Link: https://udemy-certificate.s3.amazonaws.com/image/UC-61c4f8ee-8795-432b-9f3e-d4d231e18000.jpg
 CKAD Certificate Link (PDF): https://udemy-certificate.s3.amazonaws.com/pdf/UC-61c4f8ee-8795-432b-9f3e-d4d231e18000.pdf
